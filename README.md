@@ -73,7 +73,7 @@ If you have any questions or need further guidance, feel free to reach out! I'm 
 
 ### 📬 Contact
 
-Feel free to contact me via [email@example.com](mailto:emna.fazaa.pro@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/emna-fazaa/)) for more information or collaboration opportunities.
+Feel free to contact me via [emna.fazaa.pro@gmail.com](mailto:emna.fazaa.pro@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/emna-fazaa/)) for more information or collaboration opportunities.
 
 ---
 
