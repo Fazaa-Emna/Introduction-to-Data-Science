@@ -38,7 +38,7 @@ The beginner project follows the **CRISP-DM (Cross Industry Standard Process for
 
 Follow the steps below to run the beginner project:
 
-1. **Clone the repository** to your local machine using the following command
+1. **Clone the repository** to your local machine
 
 2. **Navigate to the project folder** where the notebook is located
 
